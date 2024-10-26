@@ -7,7 +7,7 @@ export default function Footer(){
             <Image src="/fb.png" alt="FaceBook" width="30" height="30"/>
             <Image src="/insta.png" alt="Instagram" width="30" height="30"/>
             <Image src="/twitter.png" alt="Twitter" width="30" height="30"/>
-            <Image src="/linkedin.png" alt="Linkedin" width="30" height="30"/>
+            <Image src="/Linkedin.png" alt="Linkedin" width="30" height="30"/>
         </div>
 
         <div className="footer-text">
